@@ -15,4 +15,6 @@ Example 2-1
 
 Example 2-2
 
+![image](https://github.com/maryamyounis/ECE444-F2023-LAB1/assets/102765727/d2229244-caf8-4648-9fba-d6632d145b9c)
+
 ![image](https://github.com/maryamyounis/ECE444-F2023-LAB1/assets/102765727/39da7354-5080-4ca1-aa46-15b04c39bb88)
