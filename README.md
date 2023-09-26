@@ -1,5 +1,6 @@
 # Lab1 Screenshots
-
+By Maryam Younis
+--This repo is a clone of https://github.com/miguelgrinberg/flasky
 
 Activity 1
 
