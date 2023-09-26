@@ -24,3 +24,18 @@ By Maryam Younis
 ![image](https://github.com/maryamyounis/ECE444-F2023-LAB1/assets/102765727/b4b5d2f8-9eb1-464c-a23f-dc98120fe9c7)
 
 ![image](https://github.com/maryamyounis/ECE444-F2023-LAB1/assets/102765727/520a954c-7b54-4f1a-9f0d-18e0faf9067e)
+
+## Activity 4
+
+### Step 2
+![image](https://github.com/maryamyounis/ECE444-F2023-LAB1/assets/102765727/b551a28a-841b-48a3-aa28-355f16e4875c)
+
+### Step 3
+![image](https://github.com/maryamyounis/ECE444-F2023-LAB1/assets/102765727/da18e905-5771-4bed-a646-d7dc2cf7d080)
+
+## Step 4
+![image](https://github.com/maryamyounis/ECE444-F2023-LAB1/assets/102765727/1c7a8cb2-c728-4265-b7f4-a9b4b440f8ac)
+
+## Step 5
+![image](https://github.com/maryamyounis/ECE444-F2023-LAB1/assets/102765727/749e1b9b-fcb8-49f9-96ed-4d0ca008e89d)
+
