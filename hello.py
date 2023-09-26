@@ -19,7 +19,6 @@ bootstrap = Bootstrap(app)
 @app.route('/', methods=['GET', 'POST'])
 def index():
     form = NameEmailForm()
-    email_error = None
     if form.validate_on_submit():
         old_name = session.get('name')
         old_email = session.get("email")
@@ -28,11 +27,8 @@ def index():
             flash('Looks like you have changed your name!')
         if old_email is not None and old_email != form.email.data:
             flash('Looks like you have changed your email!')
-        if 'utoronto' not in form.email.data:
-            print("heello")
-            email_error = 'True'
         session['name'] = form.name.data
         session['email'] = form.email.data
         return redirect(url_for('index'))
     
-    return render_template('index.html', form = form, name = session.get('name'), email=session.get('email'), email_error=email_error)
+    return render_template('index.html', form = form, name = session.get('name'), email=session.get('email'), email_error='utoronto' not in session.get('email'))
