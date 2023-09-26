@@ -27,6 +27,12 @@ By Maryam Younis
 
 ## Activity 4
 
+### Commits
+![image](https://github.com/maryamyounis/ECE444-F2023-LAB1/assets/102765727/50e9adf6-eb36-4e8f-869d-8062b6420d59)
+
+![image](https://github.com/maryamyounis/ECE444-F2023-LAB1/assets/102765727/07ef5e36-9cfa-4a31-8e84-5ee77143acb7)
+
+
 ### Step 2
 ![image](https://github.com/maryamyounis/ECE444-F2023-LAB1/assets/102765727/b551a28a-841b-48a3-aa28-355f16e4875c)
 
