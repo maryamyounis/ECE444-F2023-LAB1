@@ -1,7 +1,5 @@
 from flask import Flask, render_template, session, redirect, url_for, flash
 from flask_bootstrap import Bootstrap
-from flask_moment import Moment
-from datetime import datetime
 from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField, EmailField
 from wtforms.validators import DataRequired
@@ -31,4 +29,10 @@ def index():
         session['email'] = form.email.data
         return redirect(url_for('index'))
     
-    return render_template('index.html', form = form, name = session.get('name'), email=session.get('email'), email_error='utoronto' not in session.get('email'))
+    return render_template(
+        'index.html', 
+        form = form, 
+        name = session.get('name'), 
+        email = session.get('email'),
+        email_error='utoronto' not in (session.get('email') or [])
+    )
